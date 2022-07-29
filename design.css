@@ -66,4 +66,10 @@
     align-items: center;
     justify-content: center;
   }
+  .company-head {
+    display: none;
+  }
+  .companys {
+    display: none;
+  }
 }
