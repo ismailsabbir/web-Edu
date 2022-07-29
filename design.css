@@ -73,3 +73,11 @@
     display: none;
   }
 }
+@media screen and (min-width: 688px) and (max-width: 992px) {
+  .companys {
+    display: none;
+  }
+  .earin-text {
+    display: none;
+  }
+}
